@@ -30,6 +30,6 @@ For my second visualization, I really liked the rect that we created in class an
 </div>
 
 <div class="right">
-{% include elements/button.html link="https://github.com/jnaiman/online_cv_public/blob/main/python_notebooks/test_generate_plots.ipynb" text="The Analysis" %}
+{% include elements/button.html link="https://github.com/jacklarson01/online_cv_public/blob/main/python_notebooks/Homework_9_Plots.ipynb" text="The Analysis" %}
 </div>
 
