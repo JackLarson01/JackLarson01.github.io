@@ -17,7 +17,7 @@ custom_js:
 
 For my first Viz I just wanted to create a Histogram so that I could easily show the total number of Floors Below Grade and the distribution of them, I beleive this is showing the number of basements in the houses that are represented within this dataset. I decided that overall the Viz was best at its default values because I didn't feel that the viz really added that much when there is different colors or other things added. Because I didn't submit homework 7 properly, Im using very similar plots that I created for that assigment, however did have to change the way that I called the functions through Altair.
 
-# Visualization 2 - Standard small Scatter plot
+# Visualization 2 - Rect Plot
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/bld_inv_chart.json" style="width: 100%"></vegachart>
 
