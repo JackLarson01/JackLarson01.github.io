@@ -19,7 +19,7 @@ For my first Viz I just wanted to create a Histogram so that I could easily show
 
 # Visualization 2 - Standard small Scatter plot
 
-<vegachart schema-url="{{ site.baseurl }}/assets/json/bld_inv_chart2.json" style="width: 100%"></vegachart>
+<vegachart schema-url="{{ site.baseurl }}/assets/json/bld_inv_chart.json" style="width: 100%"></vegachart>
 
 For my second visualization, I really liked the rect that we created in class and wanted to explore how to create one on my own using the some of the data before, in this viz I am using the Floor below grade along the X axis of my graph and the County (or chosen county) for my Y axis. In order to fit the Viz in the correct scale, I had to use a really large height, and used the mark for rect. Similar to the first Viz that I used for this assignment, this one is also very similar to what I created for homework 7, I did have to change a lot more and actually add some interactivity for useers, however it is very simple interactivity. One thing I couldn't figure out how to do is that when the you select onle 1 county, the height of the viz stays the same, however their is only one data point on the Y axis so its way too big for one peice of data.
 
