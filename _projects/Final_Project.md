@@ -12,6 +12,7 @@ custom_js:
 
 # Does the Chosen Side Actually Matter In Professional League of Legends
 
+
 One question that I and many other people like myself have always had when it comes to the game of League of Legends, is wheather the side of the map that you are on matters for the winrate of a champion or character, especially in professional League of Legends. 
 
 If you are reading this and have never heard of League of legends before, the simple way to put it is a team based game where 5 characters are playing against 5 other characters, all of which unique and are controlled by different people. The other important peice of information that you should know when viewing this page is about the two teams, one is the red side which is in the bottom left of the map, and the other is the blue side in the top right.
