@@ -40,6 +40,6 @@ Descrition 2
 </div>
 
 <div class="right">
-{% include elements/button.html link="https://github.com/JackLarson01/JackLarson01.github.io/blob/main/python_notebooks/Homework_9_Plots.ipynb" text="The Analysis" %}
+{% include elements/button.html link="https://github.com/JackLarson01/JackLarson01.github.io/blob/main/python_notebooks/League_Plots.ipynb" text="The Analysis" %}
 </div>
 
