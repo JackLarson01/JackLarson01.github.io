@@ -13,7 +13,7 @@ custom_js:
 
 # Visualization 1 - Standard small Scatter plot
 
-<!-- <vegachart schema-url="{{ site.baseurl }}/assets/json/bld_inv_bar.json" style="width: 100%"></vegachart> -->
+<vegachart schema-url="{{ site.baseurl }}/assets/json/League_appearance_bar.json" style="width: 100%"></vegachart>
 
 Description 1, dont forget to add that im the author
 
@@ -26,7 +26,7 @@ Descrition 2
 <!-- these are written in a combo of html and liquid --> 
 
 <div class="left">
-{% include elements/button.html link="https://github.com/JackLarson01/JackLarson01.github.io/blob/main/_data/building_inventory.csv" text="The Data" %}
+{% include elements/button.html link="https://github.com/JackLarson01/JackLarson01.github.io/blob/main/_data/League_Dataset.csv" text="The Data" %}
 </div>
 
 <div class="right">
