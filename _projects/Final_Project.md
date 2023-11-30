@@ -10,9 +10,8 @@ custom_js:
   - justcharts
 ---
 
-Dont forget to add a part that shows I am the author.
-
 # Does the Chosen Side Actually Matter In Professional League of Legends
+### By: Jack Larson
 
 One question that many, including myself, have always had when it comes to the game of League of Legends is whether the side of the map you are on actually matters. Specifically, we're interested in how it affects the win rate of a champion or character and its impact on professional League of Legends.
 
@@ -24,15 +23,15 @@ Today, I am going to examine whether the red side or the blue side has an effect
 
 The first graph below compiles all the professional games played with each character within the 2023 year and indicates the side on which each character was played. This graph serves to provide you with a general idea of which characters are the most popular and what kind of information is present within this dataset.
 
-You can hover over each champion to get an idea of the number of games (labeled 'Count of Records') played with that champion on each side.
+You can hover over each champion to get an idea of the number of games (labeled 'Count of Records') played with that champion on each side. Also please note that if you are using Dark mode, the side is a little harder to see on the tooltip, however light mode is much easier to see.
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/League_appearance_bar.json" style="width: 100%"></vegachart>
 
-## Visualization 2 - Rect Plot
-
-<!-- <vegachart schema-url="{{ site.baseurl }}/assets/json/bld_inv_chart.json" style="width: 100%"></vegachart> -->
+## Visualization 2 - Winrate compared per side
 
 Descrition 2
+
+<vegachart schema-url="{{ site.baseurl }}/assets/json/League_Comb_Graph.json" style="width: 100%"></vegachart>
 
 ## Final thoughts
 
