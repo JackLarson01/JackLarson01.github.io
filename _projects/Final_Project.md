@@ -10,21 +10,23 @@ custom_js:
   - justcharts
 ---
 
+Dont forget to add a part that shows I am the author.
+
 # Does the Chosen Side Actually Matter In Professional League of Legends
 
-One question that I and many other people like myself have always had when it comes to the game of League of Legends, is wheather the side of the map that you are on actually matters. Specificallt for the winrate of a champion or character and how this affects proffesional League of legends. 
+One question that many, including myself, have always had when it comes to the game of League of Legends is whether the side of the map you are on actually matters. Specifically, we're interested in how it affects the win rate of a champion or character and its impact on professional League of Legends.
 
-If you are reading this and have never heard of League of Legends before, the simple way to put it is a team based game where 5 characters are playing against 5 other characters, all of which are unique and controlled by different people. There are two teams, one is the red side which is in the bottom left of the map, and the other is the blue side in the top right.
+If you're reading this and have never heard of League of Legends before, in simple terms, it is a team-based game where five characters play against five other characters, each unique and controlled by different people. There are two teams: the red side, located in the bottom left of the map, and the blue side, positioned in the top right.
 
-What I am going to take a look at today with this dataset is if either the red side or the blue side have an effect on the winrate within the professional 2023 year. 
+Today, I am going to examine whether the red side or the blue side has an effect on the win rate within the professional scene in the 2023 year, using this dataset.
 
 ## Visualization 1 - Number of games played on each champion within professional League of Legends
 
-This first Graph seen below is a compilation of all of the professional games played using each character within the 2023 year, and what side that character was played on. This graph is for you to get a general idea of what characters are the most popular, ADD MORE
+The first graph below compiles all the professional games played with each character within the 2023 year and indicates the side on which each character was played. This graph serves to provide you with a general idea of which characters are the most popular and what kind of information is present within this dataset.
+
+You can hover over each champion to get an idea of the number of games (labeled 'Count of Records') played with that champion on each side.
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/League_appearance_bar.json" style="width: 100%"></vegachart>
-
-Description 1, dont forget to add that im the author
 
 ## Visualization 2 - Rect Plot
 
