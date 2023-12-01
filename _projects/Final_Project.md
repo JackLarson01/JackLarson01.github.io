@@ -23,19 +23,19 @@ Today, I am going to examine whether the red side or the blue side has an effect
 
 The first graph below compiles all the professional games played with each character within the 2023 year and indicates the side on which each character was played. This graph serves to provide you with a general idea of which characters are the most popular and what kind of information is present within this dataset.
 
-You can hover over each champion to get an idea of the number of games (labeled 'Count of Records') played with that champion on each side. Also please note that if you are using Dark mode, the side is a little harder to see on the tooltip, however light mode is much easier to see.
+You can hover over each champion to get an idea of the number of games (labeled 'Count of Records') played with that champion on each side.
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/League_appearance_bar.json" style="width: 100%"></vegachart>
 
 ## Visualization 2 - Winrate compared per side
 
-Descrition 2
+These next graphs show from left to right, the total winrate, the winrate on the blue side, and the winrate for the red side. If you hover over the color next to each of the champion names, it will show you the champion name, their winrate (mean of results) and number of games (count of Records).
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/League_Comb_Graph.json" style="width: 100%"></vegachart>
 
 ## Final thoughts
 
-Although I know that there are pleanty of other factors that go into the winrate of a champion within professional League of Legends.
+Although I know that there are pleanty of other factors that go into the winrate of a champion within professional League of Legends, its really interesting to see how the winrate of a champion differes when its on the other side of the game, for example Gnar has almost 1700 games played on the character, however the winrate is almost 8% hgher on the Blue side rather than the Red Side.
 
 <!-- these are written in a combo of html and liquid --> 
 
